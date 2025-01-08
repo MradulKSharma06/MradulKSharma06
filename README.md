@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MradulKSharma06
 - 👀 I’m interested in Programming, Sports and Music.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C++ and MERN Stack.
 - 💞️ I’m looking to collaborate on Projects regarding C and C++.
 - 📫 How to reach me LinkedIn https://www.linkedin.com/in/mradul-krishn-sharma-b90a65195
 - 😄 Pronouns: He/Him
